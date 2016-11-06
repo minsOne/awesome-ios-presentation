@@ -6,7 +6,7 @@ Curated list of iOS presentations.
 - [trySwiftNYC](#tryswiftnyc)
 - [iOS Conference SG 2016](#ios-conference-sg-2016)
 - [Swift Talk - objc.io](#swift-talk---objcio)
-- [LetSwift]()
+- [LetSwift](#letswift)
 
 ## [trySwiftNYC](https://github.com/tryswift/trySwiftNYC/blob/master/PRESENTATIONS.md)
 |Presentation|Slides|Video|
