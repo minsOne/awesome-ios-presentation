@@ -3,8 +3,8 @@
 Curated list of iOS presentations.
 
 ## Table of Contents
-- [trySwiftNYC](#trySwiftNYC)
-- [iOS Conference SG 2016]
+- [trySwiftNYC](#tryswiftnyc)
+- [iOS Conference SG 2016](#ios-conference-sg-2016)
 
 ## [trySwiftNYC](https://github.com/tryswift/trySwiftNYC/blob/master/PRESENTATIONS.md)
 |Presentation|Slides|Video|
@@ -30,3 +30,27 @@ Curated list of iOS presentations.
 |I make iOS apps - is RxSwift for me?|[x](https://speakerdeck.com/icanzilb/is-rxswift-for-me-at-try-swift-nyc)|[x](https://realm.io/news/tryswift-Marin-Todorov-I-create-iOS-apps-is-RxSwift-for-me/)|
 |Swift eye for the Stringly typed API|[x](https://speakerdeck.com/andyyhope/swift-eye-for-the-stringly-typed-api)|[x](https://realm.io/news/tryswift-andyy-hope-swift-eye-stringly-typed-api/)|
 |Refactoring at scale – Lessons learned rewriting Instagram’s feed|[x](https://speakerdeck.com/realm/ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagrams-feed)|[x](https://realm.io/news/tryswift-ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagram-feed/)|
+
+## [iOS Conference SG 2016](https://engineers.sg/conference/iosconfsg2016)
+|Presentation|Slides|Video|
+|------------|------|-----|
+|Writing Swift, while living on Objective-C||[x](https://www.youtube.com/watch?v=EHWRisQ9IB8)|
+|Programming without recompiling||[x](https://www.youtube.com/watch?v=t8ifiNXPWW0)|
+|Thinking of your tests as a software product||[x](https://www.youtube.com/watch?v=BbPPnxhcdHo)|
+|Reactive State Machine||[x](https://youtu.be/Oau4JjJP3nA)|
+|Enter the Dragon: Taming LLVM||[x](https://youtu.be/rwBBdlois2g)|
+|Low-Hanging View Controller Fruits||[x](https://youtu.be/ScDD_ZPVhDc)|
+|Memory Graph Debugger||[x](https://youtu.be/znjoIDAu-h8)|
+|Notify Me, Notify You. Aha!||[x](https://youtu.be/j5ocpZckY0E)|
+|A Protocol for Composition||[x](https://youtu.be/X_aDFEl8Qko)|
+|Visualizing Graphs in Swift||[x](https://youtu.be/hUkfpjZsT3g)|
+|Build Features, Not Apps||[x](https://youtu.be/lJlyR8chDwo)|
+|Scaling at Large - Lessons learned rewriting Instagram’s feed||[x](https://youtu.be/ft72S-rrQQA)|
+|Leveraging Swift's Type System||[x](https://youtu.be/4lUgNuaDTzA)|
+|Outsmarting Hackers before your App gets pwn'ed||[x](https://youtu.be/WgzOXBZk1iQ)|
+|Realm: How I learned to love database again||[x](https://youtu.be/QmoOuS1nXh8)|
+|Optimization - Making your app faster||[x](https://youtu.be/BBsaDR215Rk)|
+|A toy web framework in Swift||[x](https://youtu.be/gAFCvf4AXxQ)|
+|Swift for IoT||[x](https://youtu.be/YuPM_I9bQMI)|
+
+
