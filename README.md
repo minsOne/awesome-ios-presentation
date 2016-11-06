@@ -7,6 +7,7 @@ Curated list of iOS presentations.
 - [iOS Conference SG 2016](#ios-conference-sg-2016)
 - [Swift Talk - objc.io](#swift-talk---objcio)
 - [LetSwift](#letswift)
+- [NSLondon](#nslondon)
 
 ## [trySwiftNYC](https://github.com/tryswift/trySwiftNYC/blob/master/PRESENTATIONS.md)
 |Presentation|Slides|Video|
@@ -96,3 +97,11 @@ Curated list of iOS presentations.
 |스위프트 퍼포먼스 이해하기|[x](https://realm.io/kr/news/letswift-swift-performance/)|
 |Docker + 스위프트 서버 사이드|[x](https://realm.io/kr/news/letswift-swift-server-side/)|
 |Swift 모바일데이터베이스 : Realm|[x](https://realm.io/kr/news/realm-swift-mobile-database/)|
+
+## NSLondon
+|Presentation|Video|
+|------------|-----|
+|Advanced Notifications: Rapid Prototyping and Server-side Swift|[x](https://vimeo.com/185028972)|
+|Testing without Xcode|[x](https://vimeo.com/178934003)|
+|Product vs Craft|[x](https://vimeo.com/178441743)|
+|Emissions and Extractions: A Tale of React Native on iOS|[x](https://vimeo.com/185028973)|
