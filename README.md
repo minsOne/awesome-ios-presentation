@@ -98,7 +98,7 @@ Curated list of iOS presentations.
 |Docker + 스위프트 서버 사이드|[x](https://realm.io/kr/news/letswift-swift-server-side/)|
 |Swift 모바일데이터베이스 : Realm|[x](https://realm.io/kr/news/realm-swift-mobile-database/)|
 
-## NSLondon
+## [NSLondon](http://www.meetup.com/NSLondon/)
 |Presentation|Video|
 |------------|-----|
 |Advanced Notifications: Rapid Prototyping and Server-side Swift|[x](https://vimeo.com/185028972)|
