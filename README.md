@@ -5,6 +5,7 @@ Curated list of iOS presentations.
 ## Table of Contents
 - [trySwiftNYC](#tryswiftnyc)
 - [iOS Conference SG 2016](#ios-conference-sg-2016)
+- [Swift Talk - objc.io]()
 
 ## [trySwiftNYC](https://github.com/tryswift/trySwiftNYC/blob/master/PRESENTATIONS.md)
 |Presentation|Slides|Video|
@@ -53,4 +54,29 @@ Curated list of iOS presentations.
 |A toy web framework in Swift||[x](https://youtu.be/gAFCvf4AXxQ)|
 |Swift for IoT||[x](https://youtu.be/YuPM_I9bQMI)|
 
-
+## [Swift Talk - objc.io](https://talk.objc.io/)
+|Talk|Video|
+|----|-----|
+|Networking|[x](https://talk.objc.io/episodes/S01E01-networking)|
+|Rendering CommonMark|[x](https://talk.objc.io/episodes/S01E02-rendering-commonmark)|
+|Rendering CommonMark (Part 2)|[x](https://talk.objc.io/episodes/S01E04-rendering-commonmark-part-2)|
+|Loading View Controllers|[x](https://talk.objc.io/episodes/S01E03-loading-view-controllers)|
+|Connecting View Controllers|[x](https://talk.objc.io/episodes/S01E05-connecting-view-controllers)|
+|Generic Table View Controllers|[x](https://talk.objc.io/episodes/S01E06-generic-table-view-controllers)|
+|Stack Views with Enums|[x](https://talk.objc.io/episodes/S01E07-stack-views-with-enums)|
+|Networking: POST Requests|[x](https://talk.objc.io/episodes/S01E08-networking-post-requests)|
+|Q&A|[x](https://talk.objc.io/episodes/S01E09-q-a)|
+|Project Introduction: Ledger GUI|[x](https://talk.objc.io/episodes/S01E10-project-introduction-ledger-gui)|
+|Evaluating Expressions|[x](https://talk.objc.io/episodes/S01E11-evaluating-expressions)|
+|Evaluating Transactions|[x](https://talk.objc.io/episodes/S01E12-evaluating-transactions)|
+|Parsing Techniques|[x](https://talk.objc.io/episodes/S01E13-parsing-techniques)|
+|Growing Trees with Classes and Structs|[x](https://talk.objc.io/episodes/S01E14-growing-trees-with-classes-and-structs)|
+|Building Parser Combinators (Part 1)|[x](https://talk.objc.io/episodes/S01E15-building-parser-combinators-part-1)|
+|Building Parser Combinators (Part 2)|[x](https://talk.objc.io/episodes/S01E16-building-parser-combinators-part-2)|
+|Ledger GUI Architecture|[x](https://talk.objc.io/episodes/S01E17-ledger-gui-architecture)|
+|Adding Search to the Ledger GUI App|[x](https://talk.objc.io/episodes/S01E18-adding-search-to-the-ledger-gui-app)|
+|From Runtime Programming to Functions|[x](https://talk.objc.io/episodes/S01E19-from-runtime-programming-to-functions)|
+|Understanding Value Type Performance|[x](https://talk.objc.io/episodes/S01E20-understanding-value-type-performance)|
+|Structs and Mutation|[x](https://talk.objc.io/episodes/S01E21-structs-and-mutation)|
+|Command Line Tools with Swift|[x](https://talk.objc.io/episodes/S01E22-command-line-tools-with-swift)|
+|Splitting Arrays|[x](https://talk.objc.io/episodes/S01E23-splitting-arrays)|
