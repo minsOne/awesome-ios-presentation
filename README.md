@@ -89,19 +89,19 @@ Curated list of iOS presentations.
 |Splitting Arrays|[x](https://talk.objc.io/episodes/S01E23-splitting-arrays)|
 
 ## [LetSwift](http://www.letswift.kr/2016/)
-|Presentation|Slides&Video|
-|------------|------------|
-|스위프트 3 소개|[x](https://realm.io/kr/news/letswift-swift-3-0/)|
-|스위프트 개발환경의 변화|[x](https://realm.io/kr/news/swift-tools-xcode-lldb-instrument/)|
-|Do Swift: 스위프트 프로젝트 도전기|[x](https://realm.io/kr/news/letswift-do-swift/)|
-|스위프트 Internals|[x](https://realm.io/kr/news/swift-internals-llvm-type-system-swift-foundation/)|
-|안드로이드 개발자를 위한 스위프트|[x](https://realm.io/kr/news/swift-viper/)|
-|RxSwift 시작하기|[x](https://realm.io/kr/news/letswift-rxswift/)|
-|스위프트 패키지 매니저|[x](https://realm.io/kr/news/swift-package-manager/)|
-|프로토콜 오리엔티드 프로그래밍|[x](https://realm.io/kr/news/protocol-oriented-programming-in-swift/)|
-|스위프트 퍼포먼스 이해하기|[x](https://realm.io/kr/news/letswift-swift-performance/)|
-|Docker + 스위프트 서버 사이드|[x](https://realm.io/kr/news/letswift-swift-server-side/)|
-|Swift 모바일데이터베이스 : Realm|[x](https://realm.io/kr/news/realm-swift-mobile-database/)|
+|Presentation|Slides|Video|
+|------------|------|-----|
+|스위프트 3 소개||[x](https://realm.io/kr/news/letswift-swift-3-0/)|
+|스위프트 개발환경의 변화||[x](https://realm.io/kr/news/swift-tools-xcode-lldb-instrument/)|
+|Do Swift: 스위프트 프로젝트 도전기||[x](https://realm.io/kr/news/letswift-do-swift/)|
+|스위프트 Internals||[x](https://realm.io/kr/news/swift-internals-llvm-type-system-swift-foundation/)|
+|안드로이드 개발자를 위한 스위프트||[x](https://realm.io/kr/news/swift-viper/)|
+|RxSwift 시작하기||[x](https://realm.io/kr/news/letswift-rxswift/)|
+|스위프트 패키지 매니저||[x](https://realm.io/kr/news/swift-package-manager/)|
+|프로토콜 오리엔티드 프로그래밍||[x](https://realm.io/kr/news/protocol-oriented-programming-in-swift/)|
+|스위프트 퍼포먼스 이해하기||[x](https://realm.io/kr/news/letswift-swift-performance/)|
+|Docker + 스위프트 서버 사이드||[x](https://realm.io/kr/news/letswift-swift-server-side/)|
+|Swift 모바일데이터베이스 : Realm||[x](https://realm.io/kr/news/realm-swift-mobile-database/)|
 
 ## [NSLondon](http://www.meetup.com/NSLondon/)
 |Presentation|Video|
