@@ -38,6 +38,13 @@ Curated list of iOS presentations.
 |Refactoring at scale – Lessons learned rewriting Instagram’s feed|[x](https://speakerdeck.com/realm/ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagrams-feed)|[x](https://realm.io/news/tryswift-ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagram-feed/)|
 
 ## [try! Swift Tokyo](http://www.tryswiftconf.com/)
+|Presentation|Slides|Video|
+|------------|------|-----|
+|Table View Controllers in Swift||[x](https://realm.io/news/tryswift-chris-eidhof-table-view-controllers-swift/)|
+|Real World Mocking in Swift|[x](https://speakerdeck.com/tryswift/real-world-mocking-in-swift)|[x](https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/)|
+|Creating a Swift Library|[x](https://speakerdeck.com/jeffh/creating-a-swift-library)|[x](https://realm.io/news/tryswift-jeff-hui-creating-a-swift-library/)|
+|Blending Cultures: The Best of Functional, Protocol-, & Object-Oriented Programming|[x](https://speakerdeck.com/tryswift/daniel-steinberg-blending-cultures)|[x](https://realm.io/news/tryswift-daniel-steinberg-blending-cultures/)|
+
 
 ## [iOS Conference SG 2016](https://engineers.sg/conference/iosconfsg2016)
 |Presentation|Slides|Video|
