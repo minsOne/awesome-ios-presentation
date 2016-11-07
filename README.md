@@ -8,6 +8,7 @@ Curated list of iOS presentations.
 - [Swift Talk - objc.io](#swift-talk---objcio)
 - [LetSwift](#letswift)
 - [NSLondon](#nslondon)
+- [ALTCONF 2016](#altconf-2016)
 
 ## [trySwiftNYC](https://github.com/tryswift/trySwiftNYC/blob/master/PRESENTATIONS.md)
 |Presentation|Slides|Video|
@@ -105,3 +106,10 @@ Curated list of iOS presentations.
 |Testing without Xcode|[x](https://vimeo.com/178934003)|
 |Product vs Craft|[x](https://vimeo.com/178441743)|
 |Emissions and Extractions: A Tale of React Native on iOS|[x](https://vimeo.com/185028973)|
+
+## [ALTCONF 2016](http://altconf.com/)
+|Presentation|Slides|Video|
+|------------|------|-----|
+|Scaling Your App for Rapid Growth by using Testing, Deploying and Monitoring|[x](https://speakerdeck.com/realm/michael-crump-and-anuj-bhatia-scaling-your-app-for-rapid-growth-by-using-testing-deploying-and-monitoring)||
+|Design & Development = Better Together|[x](http://www.slideshare.net/graiz/design-and-development-better-together/)||
+|Pushing the boundaries of Swift to the Server|[x](http://www.slideshare.net/ibmmobilefirst/pushing-the-boundaries-of-swift-to-the-server)||
