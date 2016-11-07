@@ -11,7 +11,7 @@ Curated list of iOS presentations.
 - [LetSwift](#letswift)
 - [NSLondon](#nslondon)
 - [ALTCONF 2016](#altconf-2016)
-- [Contributing](#contributing)
+
 - - -
 
 ## [try! Swift NYC](https://github.com/tryswift/trySwiftNYC/blob/master/PRESENTATIONS.md)
@@ -167,4 +167,4 @@ Curated list of iOS presentations.
 |Stylish Developers Guide to Unit Testing in Swift|[x](https://speakerdeck.com/realm/jaim-zuber-stylish-developers-guide-to-unit-testing-in-swift)||
 |WWDC Week In Review (except for Friday)|||
 
-## Contributing
+# Contributing
