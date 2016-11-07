@@ -144,3 +144,11 @@ Curated list of iOS presentations.
 |Be the quality you want to see in your app [Swift edition]|[x](https://speakerdeck.com/viteinfinite/be-the-quality-you-want-to-see-in-your-app-swift-edition)||
 |Know the World and Make it Better|||
 |Turning UIKit Inside Out|[x](https://speakerdeck.com/benjamin_encz/turning-uikit-inside-out)|[x](https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-programming/)|
+|Writing software to make a difference|||
+|Cross-platform Swift|[x](https://speakerdeck.com/neonichu/cross-platform-swift-2)|[x](https://realm.io/news/altconf-boris-bugling-cross-platform-swift/)|
+|Creating the Future|||
+|Practical Core Bluetooth in IoT & Wearable projects|[x](https://speakerdeck.com/realm/shuichi-tsutsumi-practical-core-bluetooth-in-iot-and-wearable-projects-1)|[x](https://realm.io/news/altconf-shuichi-tsutsumi-practical-core-bluetooth/)|
+|What the Functor is a Monad|[x](https://speakerdeck.com/dimsumthinking/what-the-functor-is-a-monad)|[x](https://realm.io/news/altconf-daniel-steinberg-what-the-functor-monad/)|
+|Advanced ObjC<->Swift Interoperability|[x](https://speakerdeck.com/realm/nikita-lutsenko-advanced-obj-c-swift-interoperability)|[x](https://realm.io/news/altconf-nikita-lutsenko-objc-swift-interoperability/)|
+|Stylish Developers Guide to Unit Testing in Swift|[x](https://speakerdeck.com/realm/jaim-zuber-stylish-developers-guide-to-unit-testing-in-swift)||
+|WWDC Week In Review (except for Friday)|||
