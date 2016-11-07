@@ -138,3 +138,9 @@ Curated list of iOS presentations.
 |Duty of Care|||
 |A Developer's Routine to Stay Focused and Productive|||
 |How (not) to write an iOS SDK|[x](https://speakerdeck.com/conradev/how-not-to-write-an-ios-sdk)|[x](https://realm.io/news/altconf-conrad-kramer-writing-iOS-sdk/)|
+|Type Erasure Magic|[x](https://speakerdeck.com/hectormatos2011/type-erasure-magic)|[x](https://realm.io/news/altconf-hector-matos-type-erasure-magic/)|
+|Saving Lives… with iBeacons!!|[x](http://www.slideshare.net/evankstone/saving-lives-with-ibeacons-extended-remix-version)||
+|A Startup’s Secret Weapon: The Product Engineer|||
+|Be the quality you want to see in your app [Swift edition]|[x](https://speakerdeck.com/viteinfinite/be-the-quality-you-want-to-see-in-your-app-swift-edition)||
+|Know the World and Make it Better|||
+|Turning UIKit Inside Out|[x](https://speakerdeck.com/benjamin_encz/turning-uikit-inside-out)|[x](https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-programming/)|
