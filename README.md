@@ -3,7 +3,7 @@
 Curated list of iOS presentations.
 
 ## Table of Contents
-- try! Swift
+- [try! Swift](#try-swift)
   - [try! Swift NYC](#try-swift-nyc)
   - [try! Swift Tokyo](#try-swift-tokyo)
 - [iOS Conference SG 2016](#ios-conference-sg-2016)
