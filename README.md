@@ -113,3 +113,6 @@ Curated list of iOS presentations.
 |Scaling Your App for Rapid Growth by using Testing, Deploying and Monitoring|[x](https://speakerdeck.com/realm/michael-crump-and-anuj-bhatia-scaling-your-app-for-rapid-growth-by-using-testing-deploying-and-monitoring)||
 |Design & Development = Better Together|[x](http://www.slideshare.net/graiz/design-and-development-better-together/)||
 |Pushing the boundaries of Swift to the Server|[x](http://www.slideshare.net/ibmmobilefirst/pushing-the-boundaries-of-swift-to-the-server)||
+|Contextual Communication in a Connected World|||
+|Easy, Beautiful Typography with BonMot|[x](https://speakerdeck.com/zeveisenberg/bonmot-lightning-talk-at-altconf-2016)|[x](https://realm.io/news/altconf-zev-eisenberg-easy-beautiful-typography-bonmot-library-ios-swift/)|
+|The Secret Life of a Digital Nomad|[x](https://speakerdeck.com/realm/natasha-murashev-the-secret-life-of-a-digital-nomad)|[x](https://realm.io/news/altconf-natasha-murashev-digital-nomad/)|
