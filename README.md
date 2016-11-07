@@ -3,7 +3,9 @@
 Curated list of iOS presentations.
 
 ## Table of Contents
-- [try! Swift NYC](#try-swift-nyc)
+- try! Swift
+  - [try! Swift NYC](#try-swift-nyc)
+  - [try! Swift Tokyo](#try-swift-tokyo)
 - [iOS Conference SG 2016](#ios-conference-sg-2016)
 - [Swift Talk - objc.io](#swift-talk---objcio)
 - [LetSwift](#letswift)
@@ -34,6 +36,8 @@ Curated list of iOS presentations.
 |I make iOS apps - is RxSwift for me?|[x](https://speakerdeck.com/icanzilb/is-rxswift-for-me-at-try-swift-nyc)|[x](https://realm.io/news/tryswift-Marin-Todorov-I-create-iOS-apps-is-RxSwift-for-me/)|
 |Swift eye for the Stringly typed API|[x](https://speakerdeck.com/andyyhope/swift-eye-for-the-stringly-typed-api)|[x](https://realm.io/news/tryswift-andyy-hope-swift-eye-stringly-typed-api/)|
 |Refactoring at scale – Lessons learned rewriting Instagram’s feed|[x](https://speakerdeck.com/realm/ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagrams-feed)|[x](https://realm.io/news/tryswift-ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagram-feed/)|
+
+## [try! Swift Tokyo](http://www.tryswiftconf.com/)
 
 ## [iOS Conference SG 2016](https://engineers.sg/conference/iosconfsg2016)
 |Presentation|Slides|Video|
