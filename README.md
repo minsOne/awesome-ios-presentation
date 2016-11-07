@@ -120,7 +120,7 @@ Curated list of iOS presentations.
 |Bring Your App To Life with CALayers|[x](https://speakerdeck.com/smbarne/bring-your-app-to-life-with-calayers)|[x](https://realm.io/news/altconf-stephen-barnes-bring-your-app-to-life-calayer/)|
 |The Third Wave: How indies can still impact the future of iTunes|||
 |VoiceOver is Awesome|||
-|Tilting at Windmills|||
+|Tilting at Windmills|[x](https://speakerdeck.com/realm/robi-ganguly-tilting-at-windmills)|[x](https://realm.io/news/altconf-robi-ganguly-tilting-at-windmills/)|
 |Continuous Delivery for iOS & Mac Apps|[x](https://speakerdeck.com/realm/thomas-dohmke-continuous-delivery-for-mac-and-ios-apps)|[x](https://realm.io/news/altconf-thomas-dohmke-continuous-delivery/)|
 |Apple and VR|||
 |Swift Scripting Redux: Localization|[x](https://speakerdeck.com/ayanonagon/swift-scripting-redux-localization)|[x](https://realm.io/news/altconf-ayaka-nonaka-swift-scripting-redux-localization/)|
@@ -136,7 +136,7 @@ Curated list of iOS presentations.
 |Radical Hospitality - One Shower at a Time|||
 |Playgrounds: teach nerdy stuff in a fun and efficient way!|||
 |Duty of Care|||
-|A Developer's Routine to Stay Focused and Productive|||
+|A Developer's Routine to Stay Focused and Productive|[x](https://speakerdeck.com/milkmanstl/altconf-2016-dev-routines-the-focus-and-productive-class)|[x](https://realm.io/news/altconf-mike-spratt-developers-routine-stay-focused-and-productive/)|
 |How (not) to write an iOS SDK|[x](https://speakerdeck.com/conradev/how-not-to-write-an-ios-sdk)|[x](https://realm.io/news/altconf-conrad-kramer-writing-iOS-sdk/)|
 |Type Erasure Magic|[x](https://speakerdeck.com/hectormatos2011/type-erasure-magic)|[x](https://realm.io/news/altconf-hector-matos-type-erasure-magic/)|
 |Saving Lives… with iBeacons!!|[x](http://www.slideshare.net/evankstone/saving-lives-with-ibeacons-extended-remix-version)||
