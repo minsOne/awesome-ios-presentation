@@ -44,6 +44,7 @@ Curated list of iOS presentations.
 |Real World Mocking in Swift|[x](https://speakerdeck.com/tryswift/real-world-mocking-in-swift)|[x](https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/)|
 |Creating a Swift Library|[x](https://speakerdeck.com/jeffh/creating-a-swift-library)|[x](https://realm.io/news/tryswift-jeff-hui-creating-a-swift-library/)|
 |Blending Cultures: The Best of Functional, Protocol-, & Object-Oriented Programming|[x](https://speakerdeck.com/tryswift/daniel-steinberg-blending-cultures)|[x](https://realm.io/news/tryswift-daniel-steinberg-blending-cultures/)|
+|Prototyping Magic|[x](https://speakerdeck.com/tryswift/adam-bell-prototyping-magic)|[x](https://realm.io/news/tryswift-adam-bell-prototyping-magic/)|
 
 
 ## [iOS Conference SG 2016](https://engineers.sg/conference/iosconfsg2016)
