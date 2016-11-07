@@ -116,3 +116,11 @@ Curated list of iOS presentations.
 |Contextual Communication in a Connected World|||
 |Easy, Beautiful Typography with BonMot|[x](https://speakerdeck.com/zeveisenberg/bonmot-lightning-talk-at-altconf-2016)|[x](https://realm.io/news/altconf-zev-eisenberg-easy-beautiful-typography-bonmot-library-ios-swift/)|
 |The Secret Life of a Digital Nomad|[x](https://speakerdeck.com/realm/natasha-murashev-the-secret-life-of-a-digital-nomad)|[x](https://realm.io/news/altconf-natasha-murashev-digital-nomad/)|
+|A user-centered approach to solving micronavigation for the blind|||
+|Bring Your App To Life with CALayers|[x](https://speakerdeck.com/smbarne/bring-your-app-to-life-with-calayers)|[x](https://realm.io/news/altconf-stephen-barnes-bring-your-app-to-life-calayer/)|
+|The Third Wave: How indies can still impact the future of iTunes|||
+|VoiceOver is Awesome|||
+|Tilting at Windmills|||
+|Continuous Delivery for iOS & Mac Apps|[x](https://speakerdeck.com/realm/thomas-dohmke-continuous-delivery-for-mac-and-ios-apps)|[x](https://realm.io/news/altconf-thomas-dohmke-continuous-delivery/)|
+|Apple and VR|||
+|Swift Scripting Redux: Localization|[x](https://speakerdeck.com/ayanonagon/swift-scripting-redux-localization)|[x](https://realm.io/news/altconf-ayaka-nonaka-swift-scripting-redux-localization/)|
