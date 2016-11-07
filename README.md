@@ -124,3 +124,17 @@ Curated list of iOS presentations.
 |Continuous Delivery for iOS & Mac Apps|[x](https://speakerdeck.com/realm/thomas-dohmke-continuous-delivery-for-mac-and-ios-apps)|[x](https://realm.io/news/altconf-thomas-dohmke-continuous-delivery/)|
 |Apple and VR|||
 |Swift Scripting Redux: Localization|[x](https://speakerdeck.com/ayanonagon/swift-scripting-redux-localization)|[x](https://realm.io/news/altconf-ayaka-nonaka-swift-scripting-redux-localization/)|
+|The Art of the Sell|||
+|A Different Vision of the Mobile Revolution: How Mobile Technologies are Changing the Lives of People With Visual Disabilities, and How You Can Be a Part of the Change|||
+|Reactive Programming with RxSwift|[x](https://speakerdeck.com/realm/scott-gardner-reactive-programming-with-rxswift)|[x](https://realm.io/news/altconf-scott-gardner-reactive-programming-with-rxswift/)|
+|Become a Better Engineer Through Writing|[x](https://speakerdeck.com/realm/kristina-thai-become-a-better-engineer-through-writing)|[x](https://realm.io/news/altconf-kristina-thai-better-engineer-through-writing/)|
+|Futures and Promises, or how I learned to stop worrying and love the GCD|[x](https://speakerdeck.com/realm/michael-gray-futures-and-promises-or-how-i-learned-to-stop-worrying-and-love-the-gcd)|[x](https://realm.io/news/altconf-michael-gray-futures-promises-gcd/)|
+|Selling Your Weird Mouth Noises|||
+|“Richard, I don’t think you understand what the product is” — A Designer’s Response to Silicon Valley|||
+|Sell Out and Save the World!|||
+|Building Periscope Sketches|[x](https://speakerdeck.com/realm/ben-sandofsky-building-periscope-sketches)|[x](https://realm.io/news/building-periscope-sketches-ios/)|
+|Radical Hospitality - One Shower at a Time|||
+|Playgrounds: teach nerdy stuff in a fun and efficient way!|||
+|Duty of Care|||
+|A Developer's Routine to Stay Focused and Productive|||
+|How (not) to write an iOS SDK|[x](https://speakerdeck.com/conradev/how-not-to-write-an-ios-sdk)|[x](https://realm.io/news/altconf-conrad-kramer-writing-iOS-sdk/)|
