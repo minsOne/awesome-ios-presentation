@@ -3,14 +3,14 @@
 Curated list of iOS presentations.
 
 ## Table of Contents
-- [trySwiftNYC](#tryswiftnyc)
+- [try! Swift NYC](#tryswiftnyc)
 - [iOS Conference SG 2016](#ios-conference-sg-2016)
 - [Swift Talk - objc.io](#swift-talk---objcio)
 - [LetSwift](#letswift)
 - [NSLondon](#nslondon)
 - [ALTCONF 2016](#altconf-2016)
 
-## [trySwiftNYC](https://github.com/tryswift/trySwiftNYC/blob/master/PRESENTATIONS.md)
+## [try! Swift NYC](https://github.com/tryswift/trySwiftNYC/blob/master/PRESENTATIONS.md)
 |Presentation|Slides|Video|
 |------------|------|-----|
 |Lambda: There and Back Again|[x](https://speakerdeck.com/realm/rob-napier-lambda-there-and-back-againrob-napier)||
