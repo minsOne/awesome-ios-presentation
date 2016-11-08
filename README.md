@@ -181,5 +181,11 @@ Curated list of iOS presentations.
 |WWDC Week In Review (except for Friday)|||
 
 ## [App Builders 2016](http://2016.appbuilders.ch/)
+|Presentation|Slides|Video|
+|------------|------|-----|
+|The Open World of Swift 3|[x](https://speakerdeck.com/realm/daniel-steinberg-the-open-world-of-swift-3)|[x](https://realm.io/news/appbuilders-daniel-steinberg-whats-new-swift-3/)|
+|Faceoff: Android vs. iOS|[x](https://speakerdeck.com/seviu/face-off-android-vs-ios)|[x](https://realm.io/news/appbuilders-kriplaney-vieira-ios-android-faceoff/)|
+|SourceKit and You|[x](https://speakerdeck.com/jpsim/sourcekit-and-you)|[x](https://realm.io/news/appbuilders-jp-simard-sourcekit/)|
+|Practical Protocol-Oriented-Programming|[x](https://speakerdeck.com/realm/natasha-murashev-practical-protocol-oriented-programming)|[x](https://realm.io/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/)|
 
 # Contributing
