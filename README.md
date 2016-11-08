@@ -12,6 +12,7 @@ Curated list of iOS presentations.
 - [NSLondon](#nslondon)
 - [ALTCONF 2016](#altconf-2016)
 - [App Builders 2016](#app-builders-2016)
+- [SwiftConf 2016](#swiftconf-2016)
 
 - - -
 
@@ -187,5 +188,20 @@ Curated list of iOS presentations.
 |Faceoff: Android vs. iOS|[x](https://speakerdeck.com/seviu/face-off-android-vs-ios)|[x](https://realm.io/news/appbuilders-kriplaney-vieira-ios-android-faceoff/)|
 |SourceKit and You|[x](https://speakerdeck.com/jpsim/sourcekit-and-you)|[x](https://realm.io/news/appbuilders-jp-simard-sourcekit/)|
 |Practical Protocol-Oriented-Programming|[x](https://speakerdeck.com/realm/natasha-murashev-practical-protocol-oriented-programming)|[x](https://realm.io/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/)|
+
+## [SwiftConf 2016](https://swiftconf.com/)
+|Presentation|Slides|Video|
+|------------|------|-----|
+|Building Real-Time Apps in Swift||[x](https://www.youtube.com/watch?v=cKOjPBXOdfQ&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=2)|
+|Flexible Layout Kit: JSON to native iOS||[x](https://www.youtube.com/watch?v=zrfDiDT4Em0&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=3)|
+|A little respect for MVC||[x](https://www.youtube.com/watch?v=SU6h0-THvbA&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=4)|
+|Getting „emotionally“ back to the playground!||[x](https://www.youtube.com/watch?v=O5u3hVu3R7c&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=5)|
+|Bringing Swift to the Cloud||[x](https://www.youtube.com/watch?v=8Y7-JboJO84&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=6)|
+|Panel||[x](https://www.youtube.com/watch?v=V5_nOh4OhLE&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=8)|
+|Server Side Swift||[x](https://www.youtube.com/watch?v=ygh5NbSRRyk&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=9)|
+|Test-Driven iOS Development with Swift||[x](https://www.youtube.com/watch?v=sJ3K0q2aTJ0&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=10)|
+|Protocol Oriented ViewController Coordinators||[x](https://www.youtube.com/watch?v=KDl7Czw63mM&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=11)|
+|How I survived an impossible deadline||[x](https://www.youtube.com/watch?v=WhNtL0luawU&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=12)|
+|Concurrency in iOS||[x](https://www.youtube.com/watch?v=68R8egqGGjA&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=13)|
 
 # Contributing
