@@ -47,6 +47,11 @@ Curated list of iOS presentations.
 |Creating a Swift Library|[x](https://speakerdeck.com/jeffh/creating-a-swift-library)|[x](https://realm.io/news/tryswift-jeff-hui-creating-a-swift-library/)|
 |Blending Cultures: The Best of Functional, Protocol-, & Object-Oriented Programming|[x](https://speakerdeck.com/tryswift/daniel-steinberg-blending-cultures)|[x](https://realm.io/news/tryswift-daniel-steinberg-blending-cultures/)|
 |Prototyping Magic|[x](https://speakerdeck.com/tryswift/adam-bell-prototyping-magic)|[x](https://realm.io/news/tryswift-adam-bell-prototyping-magic/)|
+|Boundaries in Practice|[x](https://speakerdeck.com/ayanonagon/shi-jian-de-boundaries)|[x](https://realm.io/news/tryswift-ayaka-nonaka-boundaries-in-practice/)|
+|How to Train Your Swift: Examples of Computational Statistics in Swift|[x](https://speakerdeck.com/tryswift/diana-zmuda-how-to-train-your-swift-examples-of-computational-statistics-in-swift)|[x](https://realm.io/news/trySwift-diana-zmuda-how-to-train-your-swift-computational-statistics/)|
+|Advanced Graphics with Core Animation|[x](https://speakerdeck.com/timoliver/try-swift-advanced-graphics-with-core-animation)|[x](https://realm.io/news/tryswift-tim-oliver-advanced-graphics-with-core-animation/)|
+|Advanced Image Processing with Core Image|[x](https://speakerdeck.com/tryswift/simon-gladman-image-processing-with-core-image-1)|[x](https://realm.io/news/tryswift-gladman-simon-advanced-core-image/)|
+|How to be Invisible|[x](https://speakerdeck.com/tryswift/cate-huston-how-to-be-invisible)|[x](https://realm.io/news/tryswift-cate-huston-how-to-be-invisible/)|
 
 
 ## [iOS Conference SG 2016](https://engineers.sg/conference/iosconfsg2016)
