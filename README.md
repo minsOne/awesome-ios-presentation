@@ -1,8 +1,13 @@
-# Awesome iOS Presentation
+# Awesome iOS Presentation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Curated list of iOS presentations.
+Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/tryswift/trySwiftNYC/blob/master/PRESENTATIONS.md).
 
-## Table of Contents
+### Contributing
+
+#### *If you see a presentation or present at the conference/meetup, please submit a pull request to improve this file. Thank you!*
+
+
+### Table of Contents
 - [try! Swift](#try-swift)
   - [try! Swift NYC](#try-swift-nyc)
   - [try! Swift Tokyo](#try-swift-tokyo)
