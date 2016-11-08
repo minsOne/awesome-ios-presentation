@@ -52,7 +52,14 @@ Curated list of iOS presentations.
 |Advanced Graphics with Core Animation|[x](https://speakerdeck.com/timoliver/try-swift-advanced-graphics-with-core-animation)|[x](https://realm.io/news/tryswift-tim-oliver-advanced-graphics-with-core-animation/)|
 |Advanced Image Processing with Core Image|[x](https://speakerdeck.com/tryswift/simon-gladman-image-processing-with-core-image-1)|[x](https://realm.io/news/tryswift-gladman-simon-advanced-core-image/)|
 |How to be Invisible|[x](https://speakerdeck.com/tryswift/cate-huston-how-to-be-invisible)|[x](https://realm.io/news/tryswift-cate-huston-how-to-be-invisible/)|
-
+|Motivation-based Library Abstraction|[x](https://speakerdeck.com/tryswift/hiroki-kato-motivation-based-library-abstraction)|[x](https://realm.io/news/tryswift-hiroki-kato-motivation-based-library-abstraction/)|
+|tvOS|[x](https://speakerdeck.com/neonichu/-31)|[x](https://realm.io/news/tryswift-boris-bugling-tvos/)|
+|Protocol Extensions: A History|[x](https://speakerdeck.com/tryswift/protocol-extensions-a-history-by-matthew-gillingham)|[x](https://realm.io/news/tryswift-matthew-gillingham-protocol-extensions-history/)|
+|Dive into Swift Ecosystem|[x](https://speakerdeck.com/tryswift/syo-ikeda-dive-into-swift-ecosystem)|[x](https://realm.io/news/tryswift-syo-ikeda-swift-ecosystem/)|
+|Three Stories of Error Handling in Swift|[x](https://speakerdeck.com/tryswift/yuta-koshizawa-three-stories-about-error-handling-in-swift)|[x](https://realm.io/news/tryswift-yuta-koshizawa-error-handling-swift/)|
+|Swift Compiler Integration in LLDB|[x](https://speakerdeck.com/tryswift/novall-khan-swift-compiler-integration-in-lldb)|[x](https://realm.io/news/tryswift-novall-khan-swift-compiler-lldb/)|
+|Building Women Who Code in Tokyo|[x](https://speakerdeck.com/tryswift/himi-sato-building-women-who-code-in-tokyo)|[x](https://realm.io/news/tryswift-himi-sato-building-women-who-code-tokyo/)|
+|Protocol-Oriented Programming in Networking|[x](https://speakerdeck.com/ishkawa/protocol-oriented-programming-in-networking)|[x](https://realm.io/news/tryswift-yosuke-ishikawa-protocol-oriented-networking/)|
 
 ## [iOS Conference SG 2016](https://engineers.sg/conference/iosconfsg2016)
 |Presentation|Slides|Video|
