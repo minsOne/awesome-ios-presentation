@@ -11,6 +11,7 @@ Curated list of iOS presentations.
 - [LetSwift](#letswift)
 - [NSLondon](#nslondon)
 - [ALTCONF 2016](#altconf-2016)
+- [App Builders 2016](#app-builders-2016)
 
 - - -
 
@@ -178,5 +179,7 @@ Curated list of iOS presentations.
 |Advanced ObjC<->Swift Interoperability|[x](https://speakerdeck.com/realm/nikita-lutsenko-advanced-obj-c-swift-interoperability)|[x](https://realm.io/news/altconf-nikita-lutsenko-objc-swift-interoperability/)|
 |Stylish Developers Guide to Unit Testing in Swift|[x](https://speakerdeck.com/realm/jaim-zuber-stylish-developers-guide-to-unit-testing-in-swift)||
 |WWDC Week In Review (except for Friday)|||
+
+## [App Builders 2016](http://2016.appbuilders.ch/)
 
 # Contributing
