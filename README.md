@@ -208,5 +208,3 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 |Protocol Oriented ViewController Coordinators||[x](https://www.youtube.com/watch?v=KDl7Czw63mM&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=11)|
 |How I survived an impossible deadline||[x](https://www.youtube.com/watch?v=WhNtL0luawU&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=12)|
 |Concurrency in iOS||[x](https://www.youtube.com/watch?v=68R8egqGGjA&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=13)|
-
-# Contributing
