@@ -20,6 +20,7 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 - [SwiftConf 2016](#swiftconf-2016)
 - [dotSwift 2016](#dotswift-2016)
 - [iOSCon 2016](#ioscon-2016)
+- [Forward Swift](#forward-swift)
 
 - - -
 
@@ -270,3 +271,28 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 |Mastering reuse: A journey into application modularization with VIPER|[x](https://skillsmatter.com/skillscasts/7931-mastering-reuse-a-journey-into-application-modularization-with-viper)|
 |Boundaries In Practice|[x](https://skillsmatter.com/skillscasts/7864-boundaries-in-practice)|
 |iOSCon Park Bench Panel Sessions|[x](https://skillsmatter.com/skillscasts/7999-ioscon-park-bench-panel-sessions)|
+
+## [Forward Swift](https://forwardcourses.com/lectures/track/swift)
+|Presentation|Video|
+|------------|-----|
+|UIStackView for Fun and Profit|[x](https://forwardcourses.com/lectures/209)|
+|Closing ePlenary - Erica Sadun|[x](https://forwardcourses.com/lectures/172)|
+|ObjC<->Swift Interoperability and The Future|[x](https://forwardcourses.com/lectures/120)|
+|Cross-platform Swift|[x](https://forwardcourses.com/lectures/132)|
+|Swift's Initialization Sequence|[x](https://forwardcourses.com/lectures/128)|
+|Discovering Native Swift Patterns|[x](https://forwardcourses.com/lectures/122)|
+|Using QuartzCode (not Composer) to design animation code|[x](https://forwardcourses.com/lectures/130)|
+|Asynchronous NSOperations|[x](https://forwardcourses.com/lectures/126)|
+|Inferences and Generics|[x](https://forwardcourses.com/lectures/125)|
+|Extemporaneous Motivational Random Themed Talk|[x](https://forwardcourses.com/lectures/118)|
+|An Invasive Investigation of Navigation|[x](https://forwardcourses.com/lectures/133)|
+|Accessing Sensor Data on Apple Watch &amp; Apple TV|[x](https://forwardcourses.com/lectures/119)|
+|How to Build a Compelling Watch App/Complication|[x](https://forwardcourses.com/lectures/124)|
+|New Patterns for Working with UITableView in Swift|[x](https://forwardcourses.com/lectures/129)|
+|How Hot Is My Coffee? Sensors, Core Bluetooth and Swift!|[x](https://forwardcourses.com/lectures/123)|
+|Swiftly Styled|[x](https://forwardcourses.com/lectures/135)|
+|Forward 5 › Swift: Keynote Panel|[x](https://forwardcourses.com/lectures/178)|
+|Forward 5 › Swift Preview Shruti Malugu|[x](https://forwardcourses.com/lectures/181)|
+|Forward 5 › Swift Preview Craig Clayton|[x](https://forwardcourses.com/lectures/180)|
+|Forward 5 › Swift Preview: Max Firtman|[x](https://forwardcourses.com/lectures/179)|
+|Forward 5 › Swift Preview: Richard Fox|[x](https://forwardcourses.com/lectures/177)|
