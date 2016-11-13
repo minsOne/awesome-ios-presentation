@@ -8,6 +8,7 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 
 
 ### Table of Contents
+- [Swift Summit](#swift-summit)
 - [FrenchKit](#frenchkit)
 - [try! Swift NYC](#try-swift-nyc)
 - [try! Swift Tokyo](#try-swift-tokyo)
@@ -24,6 +25,31 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 - [UIKonf 2016](#uikonf-2016)
 
 - - -
+## [Swift Summit](https://swiftsummit.com/)
+|Presentation|Slides|
+|------------|------|
+|Flexible Code for Generic Collections|[x](https://speakerdeck.com/natecook1000/flexible-code-for-generic-collections)|
+|Swift at Scale||
+|A quantitive look at Swift usage||
+|Swift Enums and State Machines||
+|ProcedureKit and You||
+|Pushing the boundaries of Swift to the Server|[x](http://www.slideshare.net/cnbailey/swift-summit-pushing-the-boundaries-of-swift-to-the-server)|
+|Storyboards Revisited|[x](https://speakerdeck.com/paulstringer/storyboards-revisited)|
+|Talking to Swift||
+|How to Rescue a Codebase||
+|The Unreasonable Effectiveness of Declarative Code||
+|Swift & Security||
+|Clear as a bell: Sharing technical expertise||
+|Pushing the limits of protocol oriented programming|[x](https://speakerdeck.com/jessesquires/pushing-the-limits-of-protocol-oriented-programming)|
+|Data Consistency in an Unpredictable World||
+|Case study: Swift with ~150 engineers||
+|Interfacing with GraphQL in Swift||
+|Launch arguments - the mysteries||
+|Dynamic Swift||
+|Contributing to the Swift compiler||
+|Rubik's Cubes and Genetic Algorithms in Swift|[x](https://speakerdeck.com/javisoto/rubiks-cubes-and-genetic-algorithms-in-swift)|
+|Clarity, Cohesion, Coupling, Complexity||
+|Closing Panel Discussion||
 
 ## [FrenchKit](http://frenchkit.fr/)
 |Presentation|Slides|Video|
