@@ -8,9 +8,9 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 
 
 ### Table of Contents
-- [try! Swift](#try-swift)
-  - [try! Swift NYC](#try-swift-nyc)
-  - [try! Swift Tokyo](#try-swift-tokyo)
+- [FrenchKit](#frenchkit)
+- [try! Swift NYC](#try-swift-nyc)
+- [try! Swift Tokyo](#try-swift-tokyo)
 - [iOS Conference SG 2016](#ios-conference-sg-2016)
 - [Swift Talk - objc.io](#swift-talk---objcio)
 - [LetSwift](#letswift)
@@ -20,6 +20,22 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 - [SwiftConf 2016](#swiftconf-2016)
 
 - - -
+
+## [FrenchKit](http://frenchkit.fr/)
+|Presentation|Slides|Video|
+|------------|------|-----|
+|Frenchkit’s opening keynote||[x](https://www.youtube.com/watch?v=qnn2GozliyE)|
+|Building your UI Developer’s Toolbox with Playgrounds with Hugues Bernet Rollande||[x](https://www.youtube.com/watch?v=JgzFkpLgblY)|
+|Introducing Classrooms||[x](https://www.youtube.com/watch?v=heSElegRjZs)|
+|Optimizing Your App’s Performance – How to Do It Right? with Bruno Virlet||[x](https://www.youtube.com/watch?v=SbAZDGNAIgI)|
+|Human Engineering with Jérémie Girault||[x](https://www.youtube.com/watch?v=IO7F9-moYbM)|
+|Reactive Programming with RxSwift with Florent Pillet||[x](https://www.youtube.com/watch?v=uBKofrA8ok0)|
+|Swift script all the things! with Roy Marmelstein||[x](https://www.youtube.com/watch?v=KnzWG0oRYGE)|
+|Swift Package Manager with Jean Christophe Pastant||[x](https://www.youtube.com/watch?v=FzgEt2e0Y1w)|
+|Designing Pro Apps with Piet Brauer||[x](https://www.youtube.com/watch?v=mbaB4_vwxyo)|
+|Mixins vs Inheritance with Olivier Halligon ||[x](https://www.youtube.com/watch?v=BSn4jlunn4I)|
+|Swift Evolution – 140 Proposals in 30 Minutes with Jesse Squires||[x](https://www.youtube.com/watch?v=0sYQAtoK3VQ)|
+|Core Data – It’s Not Dead Yet with Abizer Nasir||[x](https://www.youtube.com/watch?v=iOdg7WOEWWE)|
 
 ## [try! Swift NYC](https://github.com/tryswift/trySwiftNYC/blob/master/PRESENTATIONS.md)
 |Presentation|Slides|Video|
