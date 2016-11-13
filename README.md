@@ -21,6 +21,7 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 - [dotSwift 2016](#dotswift-2016)
 - [iOSCon 2016](#ioscon-2016)
 - [Forward Swift](#forward-swift)
+- [UIKonf 2016](#uikonf-2016)
 
 - - -
 
@@ -296,3 +297,25 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 |Forward 5 › Swift Preview Craig Clayton|[x](https://forwardcourses.com/lectures/180)|
 |Forward 5 › Swift Preview: Max Firtman|[x](https://forwardcourses.com/lectures/179)|
 |Forward 5 › Swift Preview: Richard Fox|[x](https://forwardcourses.com/lectures/177)|
+
+## [UIKonf 2016](http://www.uikonf.com)
+|Presentation|Video|
+|------------|-----|
+|Legacy|[x](https://www.youtube.com//watch?v=AksIrgPFSgY)|
+|Build once, use everywhere|[x](https://www.youtube.com//watch?v=EO1F5FniaVE)|
+|High-Performance iOS Networking|[x](https://www.youtube.com//watch?v=BbjaseWvymA)|
+|Practical Core Bluetooth in IoT &amp; Wearable projects|[x](https://www.youtube.com//watch?v=EhZGF-2V7RQ)|
+|Working Within the Walled Garden|[x](https://www.youtube.com//watch?v=gFD1oK83qDI)|
+|MVVM-C In Practice|[x](https://www.youtube.com//watch?v=9VojuJpUuE8)|
+|Outside In – Using UI Tests To Start Improving Your App|[x](https://www.youtube.com//watch?v=hYCUy-9yq_M)|
+|An Indie's Guide to Building Profitable Apps|[x](https://www.youtube.com//watch?v=r6W0CuC40ZE)|
+|Reading in a New Language|[x](https://www.youtube.com//watch?v=B3X_nhJ61Ak)|
+|Humanities x Technology|[x](https://www.youtube.com//watch?v=lN6Evfi1SgE)|
+|Your (Forgotten) Friend inside Xcode|[x](https://www.youtube.com//watch?v=jXX4RmGKWmQ)|
+|App Security and Securing Apps|[x](https://www.youtube.com//watch?v=ipMlEMnKwKs)|
+|Bring Your App to Life with CALayers|[x](https://www.youtube.com//watch?v=aEjZLQq26oU)|
+|The Empathetic Programmer|[x](https://www.youtube.com//watch?v=hXo6CWTmb9c)|
+|Dependency Injection in Swift|[x](https://www.youtube.com//watch?v=Jg5MvmR3TtM)|
+|4 Steps To (Architectural) Epiphany|[x](https://www.youtube.com//watch?v=cT5lz7tgxTI)|
+|A Time Lapse look at Swift|[x](https://www.youtube.com//watch?v=kyzN5I-2FoY)|
+|#NoExcuses|[x](https://www.youtube.com//watch?v=xZMMnIME0a0)|
