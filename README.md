@@ -248,25 +248,25 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 ## [iOSCon 2016](https://skillsmatter.com/conferences/7598-ioscon-2016-the-conference-for-ios-and-swift-developers#program)
 |Presentation|Video|
 |------------|-----|
-|Practical Testing Tips||
-|"Can we submit yet?" - The secret to blazing-fast, rock-solid automated tests||
-|There is no 2nd chance for a first impression||
-|Intro to tvOS||
-|ResearchKit & CareKit ||
-|Concurrency in iOS||
-|I Swift therefore I am - Swift and Philosophy||
-|Practical Core Bluetooth in IoT & Wearable projects||
-|Mobile wars: HTML5 vs. Native||
-|Live Objects||
-|A story of Burnout||
-|Understanding your Toddler||
-|Protocol-Oriented DataSources in Swift||
-|MVVM, RxSwift and DataControllers||
-|Framework Oriented Programming||
-|A Little Respect for MVC||
-|An Invasive Investigation of Navigation||
-|Why the dark side of the force should use Swift and a SOLID architecture||
-|Turning UIKit inside out||
-|Mastering reuse: A journey into application modularization with VIPER||
-|Boundaries In Practice||
-|iOSCon Park Bench Panel Sessions||
+|Practical Testing Tips|[x](https://skillsmatter.com/skillscasts/7774-practical-testing-tips)|
+|"Can we submit yet?" - The secret to blazing-fast, rock-solid automated tests|[x](https://skillsmatter.com/skillscasts/7792-can-we-submit-yet-the-secret-to-blazing-fast-rock-solid-automated-tests)|
+|There is no 2nd chance for a first impression|[x](https://skillsmatter.com/skillscasts/7984-there-is-no-2nd-chance-for-a-first-impression)|
+|Intro to tvOS|[x](https://skillsmatter.com/skillscasts/7891-intro-to-tvos)|
+|ResearchKit & CareKit |[x](https://skillsmatter.com/skillscasts/7930-researchkit-and-carekit)|
+|Concurrency in iOS|[x](https://skillsmatter.com/skillscasts/7932-concurrency-in-ios)|
+|I Swift therefore I am - Swift and Philosophy|[x](https://skillsmatter.com/skillscasts/7985-i-swift-therefore-i-am-swift-and-philosophy)|
+|Practical Core Bluetooth in IoT & Wearable projects|[x](https://skillsmatter.com/skillscasts/7980-practical-core-bluetooth-in-iot-and-wearable-projects)|
+|Mobile wars: HTML5 vs. Native|[x](https://skillsmatter.com/skillscasts/8253-mobile-wars-html5-vs-native)|
+|Live Objects|[x](https://skillsmatter.com/skillscasts/8241-live-objects)|
+|A story of Burnout|[x](https://skillsmatter.com/skillscasts/7998-a-story-of-burnout)|
+|Understanding your Toddler|[x](https://skillsmatter.com/skillscasts/7989-understanding-your-toddler)|
+|Protocol-Oriented DataSources in Swift|[x](https://skillsmatter.com/skillscasts/7983-protocol-oriented-datasources-in-swift)|
+|MVVM, RxSwift and DataControllers|[x](https://skillsmatter.com/skillscasts/7863-mvvm-rxswift-and-datacontrollers)|
+|Framework Oriented Programming|[x](https://skillsmatter.com/skillscasts/7865-framework-oriented-programming)|
+|A Little Respect for MVC|[x](https://skillsmatter.com/skillscasts/7857-a-little-respect-for-mvc)|
+|An Invasive Investigation of Navigation|[x](https://skillsmatter.com/skillscasts/7982-an-invasive-investigation-of-navigation)|
+|Why the dark side of the force should use Swift and a SOLID architecture|[x](https://skillsmatter.com/skillscasts/7877-why-the-dark-side-of-the-force-should-use-swift-and-a-solid-architecture)|
+|Turning UIKit inside out|[x](https://skillsmatter.com/skillscasts/8179-turning-uikit-inside-out)|
+|Mastering reuse: A journey into application modularization with VIPER|[x](https://skillsmatter.com/skillscasts/7931-mastering-reuse-a-journey-into-application-modularization-with-viper)|
+|Boundaries In Practice|[x](https://skillsmatter.com/skillscasts/7864-boundaries-in-practice)|
+|iOSCon Park Bench Panel Sessions|[x](https://skillsmatter.com/skillscasts/7999-ioscon-park-bench-panel-sessions)|
