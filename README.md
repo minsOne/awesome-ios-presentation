@@ -18,6 +18,7 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 - [ALTCONF 2016](#altconf-2016)
 - [App Builders 2016](#app-builders-2016)
 - [SwiftConf 2016](#swiftconf-2016)
+- [dotSwift 2016](#dotswift-2016)
 
 - - -
 
@@ -225,3 +226,20 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 |Protocol Oriented ViewController Coordinators||[x](https://www.youtube.com/watch?v=KDl7Czw63mM&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=11)|
 |How I survived an impossible deadline||[x](https://www.youtube.com/watch?v=WhNtL0luawU&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=12)|
 |Concurrency in iOS||[x](https://www.youtube.com/watch?v=68R8egqGGjA&list=PLgUjQUYKwG_ifqGPgpMbUmtlUIajgWNlp&index=13)|
+
+## [dotSwift 2016](http://www.thedotpost.com/conference/dotswift-2016)
+|Presentation|Slides|Video|
+|------------|------|-----|
+|Xcodeless||[x](https://youtu.be/IvGNB4bMpHI)|
+|Creating an animation with CAReplicatorLayer|[x](http://www.slideshare.net/AlessandroLudovici/create-an-animation-with-careplicatorlayer)|[x](https://youtu.be/0uvDO9FgFsg)|
+|The Empathetic Developer|[x](http://www.slideshare.net/CoderMay/the-empathetic-developer)|[x](https://youtu.be/MticuuqsMcQ)|
+|Protocol Oriented Programming|[x](https://medium.com/swift-programming/protocol-oriented-programming-a3e192f6e8f2#.t3q8q6eye)|[x](https://youtu.be/BpBqutfpSPQ)|
+|CloudKit: The Forgotten Cloud|[x](https://speakerdeck.com/pardel/the-forgotten-cloud)|[x](https://youtu.be/38NijK7A1l4)|
+|iOS UIs built as Lego bricks|[x](http://www.slideshare.net/ShengjiaWANG2/build-ios-ui-in-the-way-of-lego-bricks)|[x](https://youtu.be/GgsQgpCYdrM)|
+|Swift [and the] Evolution|[x](http://www.slideshare.net/griotspeak/swift-and-the-evolution)|[x](https://youtu.be/Gh1RgYz--wg)|
+|Beyond JSON in Swift|[x](http://www.slideshare.net/maximzaks/beyond-json-dot-swift-2016)|[x](https://youtu.be/e8K9F8IVu14)|
+|Tiny Networking in Swift||[x](https://youtu.be/ewk-XNzXzAA)|
+|The Bright Future of Swift|[x](https://speakerdeck.com/thomasvisser/the-bright-future-of-swift)|[x](https://youtu.be/vjGvsJv4Wos)|
+|Going Swift and Beyond|[x](https://speakerdeck.com/ayanonagon/first-wave-swift)|[x](https://youtu.be/fdnpexLkdx4)|
+|Localization is hard|[x](https://speakerdeck.com/marmelroy/localization-is-hard)|[x](https://youtu.be/R9_jFbQsFWA)|
+|Beyond Crusty: Real-World Protocols|[x](http://www.slideshare.net/RobNapier1/dotswift-2016-beyond-crusty-realworld-protocols)|[x](https://youtu.be/QCxkaTj7QJs)|
