@@ -19,6 +19,7 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 - [App Builders 2016](#app-builders-2016)
 - [SwiftConf 2016](#swiftconf-2016)
 - [dotSwift 2016](#dotswift-2016)
+- [iOSCon 2016](#ioscon-2016)
 
 - - -
 
@@ -243,3 +244,29 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 |Going Swift and Beyond|[x](https://speakerdeck.com/ayanonagon/first-wave-swift)|[x](https://youtu.be/fdnpexLkdx4)|
 |Localization is hard|[x](https://speakerdeck.com/marmelroy/localization-is-hard)|[x](https://youtu.be/R9_jFbQsFWA)|
 |Beyond Crusty: Real-World Protocols|[x](http://www.slideshare.net/RobNapier1/dotswift-2016-beyond-crusty-realworld-protocols)|[x](https://youtu.be/QCxkaTj7QJs)|
+
+## [iOSCon 2016](https://skillsmatter.com/conferences/7598-ioscon-2016-the-conference-for-ios-and-swift-developers#program)
+|Presentation|Video|
+|------------|-----|
+|Practical Testing Tips||
+|"Can we submit yet?" - The secret to blazing-fast, rock-solid automated tests||
+|There is no 2nd chance for a first impression||
+|Intro to tvOS||
+|ResearchKit & CareKit ||
+|Concurrency in iOS||
+|I Swift therefore I am - Swift and Philosophy||
+|Practical Core Bluetooth in IoT & Wearable projects||
+|Mobile wars: HTML5 vs. Native||
+|Live Objects||
+|A story of Burnout||
+|Understanding your Toddler||
+|Protocol-Oriented DataSources in Swift||
+|MVVM, RxSwift and DataControllers||
+|Framework Oriented Programming||
+|A Little Respect for MVC||
+|An Invasive Investigation of Navigation||
+|Why the dark side of the force should use Swift and a SOLID architecture||
+|Turning UIKit inside out||
+|Mastering reuse: A journey into application modularization with VIPER||
+|Boundaries In Practice||
+|iOSCon Park Bench Panel Sessions||
