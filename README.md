@@ -25,17 +25,18 @@ Curated list of iOS presentations. Inspired by [trySwiftNYC](https://github.com/
 |Presentation|Slides|Video|
 |------------|------|-----|
 |Frenchkit’s opening keynote||[x](https://www.youtube.com/watch?v=qnn2GozliyE)|
-|Building your UI Developer’s Toolbox with Playgrounds with Hugues Bernet Rollande||[x](https://www.youtube.com/watch?v=JgzFkpLgblY)|
+|Building your UI Developer’s Toolbox with Playgrounds with Hugues Bernet Rollande|[x](https://speakerdeck.com/huguesbr/build-your-ui-developer-toolbox-using-playgrounds)|[x](https://www.youtube.com/watch?v=JgzFkpLgblY)|
 |Introducing Classrooms||[x](https://www.youtube.com/watch?v=heSElegRjZs)|
 |Optimizing Your App’s Performance – How to Do It Right? with Bruno Virlet||[x](https://www.youtube.com/watch?v=SbAZDGNAIgI)|
 |Human Engineering with Jérémie Girault||[x](https://www.youtube.com/watch?v=IO7F9-moYbM)|
-|Reactive Programming with RxSwift with Florent Pillet||[x](https://www.youtube.com/watch?v=uBKofrA8ok0)|
+|Reactive Programming with RxSwift with Florent Pillet|[x](http://www.slideshare.net/fpillet/reactive-programming-patterns-with-rxswift)|[x](https://www.youtube.com/watch?v=uBKofrA8ok0)|
 |Swift script all the things! with Roy Marmelstein||[x](https://www.youtube.com/watch?v=KnzWG0oRYGE)|
 |Swift Package Manager with Jean Christophe Pastant||[x](https://www.youtube.com/watch?v=FzgEt2e0Y1w)|
-|Designing Pro Apps with Piet Brauer||[x](https://www.youtube.com/watch?v=mbaB4_vwxyo)|
-|Mixins vs Inheritance with Olivier Halligon ||[x](https://www.youtube.com/watch?v=BSn4jlunn4I)|
-|Swift Evolution – 140 Proposals in 30 Minutes with Jesse Squires||[x](https://www.youtube.com/watch?v=0sYQAtoK3VQ)|
-|Core Data – It’s Not Dead Yet with Abizer Nasir||[x](https://www.youtube.com/watch?v=iOdg7WOEWWE)|
+|Designing Pro Apps with Piet Brauer|[x](https://speakerdeck.com/pietbrauer/designing-pro-apps-at-frenchkit-2016)|[x](https://www.youtube.com/watch?v=mbaB4_vwxyo)|
+|Mixins vs Inheritance with Olivier Halligon |[x](https://speakerdeck.com/alisoftware/mixins-over-inheritance-frenchkit-16)|[x](https://www.youtube.com/watch?v=BSn4jlunn4I)|
+|Swift Evolution – 140 Proposals in 30 Minutes with Jesse Squires|[x](https://speakerdeck.com/jessesquires/140-proposals-in-30-minutes)|[x](https://www.youtube.com/watch?v=0sYQAtoK3VQ)|
+|Core Data – It’s Not Dead Yet with Abizer Nasir|[x](https://speakerdeck.com/abizern/core-data-its-not-dead-yet)|[x](https://www.youtube.com/watch?v=iOdg7WOEWWE)|
+|End-To-End Application Development with Swift|[x](http://www.slideshare.net/cnbailey/frenchkit-end-to-end-application-development-with-swift)||
 
 ## [try! Swift NYC](https://github.com/tryswift/trySwiftNYC/blob/master/PRESENTATIONS.md)
 |Presentation|Slides|Video|
